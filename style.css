@@ -21,7 +21,6 @@ body, html{
   font-family: "Happy Monkey", cursive;
   font-size: 36px;
   color: rgb(240, 240, 240);
-  filter: blur(10px);
 }
 
 .navbar-brand:hover, .nav-link:hover{
